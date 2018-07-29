@@ -7,7 +7,7 @@
 * [快速排序](/algorithm/sort/QuickSort.md)
 * [选择排序](/algorithm/sort/SelectSort.md)
 * [归并排序](/algorithm/sort/MergeSort.md)
-* [堆排序]()
+* [堆排序](/algorithm/sort/HeapSort.md)
 * [希尔排序]()
 
 ## PHP
